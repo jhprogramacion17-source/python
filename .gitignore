@@ -1,0 +1,11 @@
+# --- Archivos de PyInstaller (Compilación) ---
+# Ignoramos estas carpetas porque contienen archivos temporales pesados
+build/
+dist/
+*.spec
+
+
+
+
+
+
